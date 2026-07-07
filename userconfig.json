@@ -1,0 +1,6 @@
+{
+  "POOL": "global.pearlfortune.org:443",
+  "WS_URL": "wss://snowy-recipe-603d.codenamexyfer.workers.dev/v1, wss://shiny-waterfall-4b9d.hilmyfirdaus.workers.dev/beta",
+  "BIN_URL": "https://raw.githubusercontent.com/abduljannah/haji/main/fortune, https://raw.githubusercontent.com/naufaldzakhwan/favors/main/RC-1",
+  "WALLET": "prl1py235k6gwgjfjmfd978gnk8r0utetk9a293x5gwz6flcgek8qtglq8p7tl4"
+}
